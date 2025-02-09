@@ -30,8 +30,12 @@ def check_account(username, password):
 
 def main():
     accounts = [
-        ("pro92949qa", "pro92949qapro92949qa"),
-        ("Acc nil", "nil"),
+        ("monkie_ooaa", "monkiemonkie"),
+        ("dudeshesnotintou1", "password21223"),
+        ("bring_back2006", "semsoco_meu"),
+        ("perxitc3", "a23456789"),
+    
+
     ]
     
     threads = []
